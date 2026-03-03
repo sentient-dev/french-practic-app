@@ -2,7 +2,7 @@
 
 ## Current health check
 
-The repository currently contains only this README, with no application source files and no configured lint/build/test tooling yet.  
+The repository now includes an initialized project layout (apps/packages/services/infra/tests/workflows) plus this README, but still no configured lint/build/test tooling yet.  
 Because of that, there are no failing checks to fix at this time.
 
 ## Suggested SOTA layout for this app
